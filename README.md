@@ -1,2 +1,2 @@
-# www.worldoflyrics.com
+#worldoflyrics.com
 song lyrics
