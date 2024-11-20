@@ -1,0 +1,140 @@
+*{
+    
+    
+    margin: 0.1rem;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    
+    padding: 0 20px;
+    background-color:aqua;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+
+  ul li {
+      text-decoration: none;
+      list-style-type: none;
+     
+  
+      float: left;
+      height: 50px;
+      width: 150px;
+      padding-left: 10px;
+      padding-top: 10px;
+      margin-left: 20px;
+      font-size: 16px;
+  
+      
+      border-bottom: #e75500;
+      display: flex;
+  
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: #080808;
+      
+  
+   }
+  
+   a {
+      font-size: large;
+      color: rgb(5, 5, 5);
+      font-family: sans-serif;
+      font-size: 16px;
+      text-decoration: none;
+      
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: #f2f2f2;
+  
+  }
+  
+  body li :hover{
+    color: orange
+  }
+  main{
+  width: 100%;
+  float:none;
+  margin-bottom: 0;
+  padding: 0;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+  }
+
+  h1{
+
+  }
+
+  section {
+  background-color: #EF5A5F;
+  margin-top: 10px;
+  padding: 0;}
+  
+  input {
+    padding-left: 200spx;
+    padding-right: 10px;
+    width: 200px;
+    height: 20px;
+    front-size: 15px;
+    
+  }
+  button{
+    background-color: #e75500; 
+    color: whitesmoke; 
+    border: none; 
+    padding: 10px 20px; 
+    font-size: 16px;
+     
+  }
+  .search{
+    color: black;
+
+  }
+
+  form{
+    
+  }
+  
+  table{
+    padding: 0;
+    width: 0;}
+    p  {
+        front-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        color: gray;
+        background-image: scr=fdc.jpg;
+    }
+ footer{
+  height: 50px;
+      width: 100%;
+  padding: 10px;
+  float: left;
+  margin: 0%;
+  background-color: chartreuse;
+  
+ } 
+
+body{
+  background-color: #333;
+ color: whitesmoke;
+}
+
+.hero{
+  
+}
+.hero-content{
+  background-color:aquamarine;
+  color: #333;
+  height: 75px;
+  width: 100%;
+ 
+  
+}
